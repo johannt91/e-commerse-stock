@@ -23,7 +23,7 @@
 
   ### Usage
 
-  See video demo
+  See video demo: [Part1](https://drive.google.com/file/d/1A38v6yVrBApZkn-l_htaav8lOGhqjoji/view), [Part2](https://drive.google.com/file/d/1SRnM66o95FZm9uOrtKqoAJdEvLn39mrM/view)
 
   ### License
   This project is licensed under [MIT](https://opensource.org/licenses/MIT)
